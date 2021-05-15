@@ -1,0 +1,7 @@
+C:\Users\комп\source\repos\recursia\recursia\bin\Debug\recursia.exe.config
+C:\Users\комп\source\repos\recursia\recursia\bin\Debug\recursia.exe
+C:\Users\комп\source\repos\recursia\recursia\bin\Debug\recursia.pdb
+C:\Users\комп\source\repos\recursia\recursia\obj\Debug\recursia.csprojAssemblyReference.cache
+C:\Users\комп\source\repos\recursia\recursia\obj\Debug\recursia.csproj.CoreCompileInputs.cache
+C:\Users\комп\source\repos\recursia\recursia\obj\Debug\recursia.exe
+C:\Users\комп\source\repos\recursia\recursia\obj\Debug\recursia.pdb
